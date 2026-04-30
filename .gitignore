@@ -13,3 +13,8 @@ env/
 # Python caches
 __pycache__/
 *.pyc
+
+# agents
+.agents/
+docs/
+skills-lock.json
