@@ -1,0 +1,15 @@
+# Environments
+.env
+connections.json
+
+# Virtual Environment
+venv/
+env/
+
+# Excel Exports
+*.xlsx
+*.xls
+
+# Python caches
+__pycache__/
+*.pyc

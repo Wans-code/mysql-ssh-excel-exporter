@@ -1,0 +1,26 @@
+{
+  "nama_koneksi": {
+    "SSH_HOST": "ip_server",
+    "SSH_PORT": ,
+    "SSH_USER": "root",
+    "SSH_PASSWORD": "password_ssh",
+    "SSH_KEY_PATH": "",
+    "DB_HOST": "127.0.0.1",
+    "DB_PORT": 3306,
+    "DB_USER": "user_db",
+    "DB_PASSWORD": "password_db",
+    "CHUNK_SIZE": 10000
+  },
+  "nama_koneksi2": {
+    "SSH_HOST": "ip_server",
+    "SSH_PORT": ,
+    "SSH_USER": "root",
+    "SSH_PASSWORD": "password_ssh",
+    "SSH_KEY_PATH": "",
+    "DB_HOST": "127.0.0.1",
+    "DB_PORT": 3306,
+    "DB_USER": "user_db",
+    "DB_PASSWORD": "password_db",
+    "CHUNK_SIZE": 10000
+  }
+}
